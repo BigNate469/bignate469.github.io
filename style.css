@@ -1,6 +1,7 @@
 #navbar {
   display: flex;
-  background-color: 0;
+  background-color: #5f95f7;
 }
-#navbar > div {
+#navbar > div::hover{
+  background-color: #4f85e7;
 }
